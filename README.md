@@ -15,6 +15,7 @@ This Django REST API returns:
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/yourusername/your-repo"
 }
+```
 
 🛠️Technology Stack
 Backend: Django REST Framework (Python)
