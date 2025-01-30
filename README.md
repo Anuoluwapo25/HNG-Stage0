@@ -16,7 +16,7 @@ This Django REST API returns:
   "github_url": "https://github.com/yourusername/your-repo"
 }
 
-##  🛠️Technology Stack
+🛠️Technology Stack
 Backend: Django REST Framework (Python)
 Deployment: Render
 CORS Handling: Django CORS Headers
@@ -72,7 +72,7 @@ Create a New Web Service.
 Connect your GitHub repository.
 Set Start Command:
 
-gunicorn hng12.wsgi:application
+gunicorn HNG-Stage0.wsgi:application
 Deploy! 🚀
 
 📄 License
