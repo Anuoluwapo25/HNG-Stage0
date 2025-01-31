@@ -7,7 +7,7 @@ This project is a simple FastAPI application that provides student information t
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Anuoluwapo25/HNG-Stage0
-}
+
     cd HNG-Stage0
     ```
 
