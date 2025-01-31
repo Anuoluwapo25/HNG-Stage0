@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 class UserView(APIView):
     def get(self, request):
        
-        current_datetime = datetime.now(timezone.utc).isoformat()
+        current_datetime = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
         return Response({
             "email": "anuoluwapoali25@gmail.com",
             "current_datetime": current_datetime, 
