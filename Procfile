@@ -1,1 +1,1 @@
-web: gunicorn HNG-Stage0.wsgi:application
+web: gunicorn Stage0.wsgi:application
